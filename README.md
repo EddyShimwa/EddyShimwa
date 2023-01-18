@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Pray Eddy SHIMWA</h1>
 <h3 align="center">A passionate frontend developer from East Africa RWANDA</h3>
 
-- 🔭 I’m currently working on [Food Hub app](https://github.com/gauravgangwarweb/Meal-Javascript-capstone-)
+- 🔭 I’m currently working on [React Calculator App](https://github.com/EddyShimwa/math-magiciians)
 
 - 🌱 I’m currently learning **React, React Native, Node.js, Ruby**
 
