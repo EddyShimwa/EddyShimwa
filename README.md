@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, React Native, Node.js, Ruby**
 
-- 👨‍💻 All of my projects are available at [https://eddyshimwa.github.io/First-CapStone-Project-My-Brand/](https://eddyshimwa.github.io/First-CapStone-Project-My-Brand/)
+- 👨‍💻 All of my projects are available at my [portfolio](https://eddyshimwa.github.io/portfolio/)
 
 - 💬 Ask me about **html, CSS, bootstrap, JavaScript, Figma, Git&GitHub,**
 
