@@ -1,9 +1,12 @@
-<h1 align="center">Hello 👋, I'm Pray Eddy SHIMWA</h1>
+<h1 align="center" fontsize="40px">Hello 👋, I'm Pray Eddy SHIMWA</h1>
 <h3 align="center">A passionate frontend developer from East Africa RWANDA</h3>
+<img align="center" src="giffy.gif" alt="Me" title="Me" width="50%" >
 
-- 🔭 I’m currently working on [React Calculator App](https://github.com/EddyShimwa/math-magiciians)
+- 🔭 I'm currently a student and Mentor at [Microverse](https://www.microverse.org/)
 
-- 🌱 I’m currently learning **React, React Native, Node.js, Ruby**
+- 🔭 I’m currently working on [Book Store App](https://github.com/EddyShimwa/math-magiciians)
+
+- 🌱 I’m currently learning **React & Redux**
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://eddyshimwa.github.io/portfolio/)
 
