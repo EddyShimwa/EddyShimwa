@@ -4,11 +4,11 @@
 
 - 🔭 I'm currently a student and Mentor at [Microverse](https://www.microverse.org/)
 
-- 🔭 I’m currently working on [Book Store App](https://github.com/EddyShimwa/math-magiciians)
+- 🔭 I’m currently working on [explore-america-app](https://github.com/EddyShimwa/metrics-webapp)
 
 - 🌱 I’m currently learning **React & Redux**
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://eddyshimwa.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at my [portfolio](https://eddyshimwa.github.io/Work-Port/)
 
 - 💬 Ask me about **html, CSS, bootstrap, JavaScript, Figma, Git&GitHub,**
 
