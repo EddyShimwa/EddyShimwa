@@ -1,12 +1,12 @@
 <h1 align="center" fontsize="40px">Hello 👋, I'm Pray Eddy SHIMWA</h1>
-<h3 align="center">A passionate frontend developer from East Africa RWANDA</h3>
+<h3 align="center">A passionate Full-Stack developer from RWANDA</h3>
 <img align="center" src="giffy.gif" alt="Me" title="Me" width="50%" >
 
 - 🔭 I'm currently a student and Mentor at [Microverse](https://www.microverse.org/)
 
 - 🔭 I’m currently working on [explore-america-app](https://github.com/EddyShimwa/metrics-webapp)
 
-- 🌱 I’m currently learning **React & Redux**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://eddyshimwa.github.io/Work-Port/)
 
