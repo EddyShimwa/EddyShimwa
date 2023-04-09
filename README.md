@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://eddyshimwa.github.io/Work-Port/)
 
-- 💬 Ask me about **html, CSS, bootstrap, JavaScript, Figma, Git&GitHub,**
+- 💬 Ask me about **html, CSS, bootstrap, JavaScript, Figma, Git&GitHub, ruby on rails**
 
 - 📫 How to reach me **shimwaprayeddy@gmail.com**
 
