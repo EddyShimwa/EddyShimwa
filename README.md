@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently a student and Mentor at [Microverse](https://www.microverse.org/)
 
-- 🔭 I’m currently working on [explore-america-app](https://github.com/EddyShimwa/metrics-webapp)
+- 🔭 I’m currently working on [Recipe-app](https://github.com/EddyShimwa/Recipe_app)
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
