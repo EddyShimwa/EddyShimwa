@@ -4,13 +4,13 @@
 
 - 🔭 I'm currently a student and Mentor at [Microverse](https://www.microverse.org/)
 
-- 🔭 I’m currently working on [Recipe-app](https://github.com/EddyShimwa/Recipe_app)
+- 🔭 I’m currently working on [SoundBliss app](https://github.com/EddyShimwa/SoundBliss/)
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://eddyshimwa.github.io/Work-Port/)
+- 👨‍💻 All of my projects are available at my [portfolio](https://github.com/EddyShimwa/My-Portfolio))
 
-- 💬 Ask me about **html, CSS, bootstrap, JavaScript, Figma, Git&GitHub, ruby on rails**
+- 💬 Ask me about **html, CSS, bootstrap, JavaScript, React, Redux Figma, Git&GitHub, ruby on rails**
 
 - 📫 How to reach me **shimwaprayeddy@gmail.com**
 
