@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://github.com/EddyShimwa/My-Portfolio))
 
-- 💬 Ask me about **html, CSS, bootstrap, JavaScript, React, Redux Figma, Git&GitHub, ruby on rails**
+- 💬 Ask me about **html, CSS, bootstrap, JavaScript, React, Redux, Figma, Git&GitHub, ruby on rails**
 
 - 📫 How to reach me **shimwaprayeddy@gmail.com**
 
