@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [SoundBliss app](https://github.com/EddyShimwa/SoundBliss/)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Three.js**
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://github.com/EddyShimwa/My-Portfolio))
 
