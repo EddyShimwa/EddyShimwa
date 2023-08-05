@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently a student and Mentor at [Microverse](https://www.microverse.org/)
 
-- 🔭 I’m currently working on [SoundBliss app](https://github.com/EddyShimwa/SoundBliss/)
+- 🔭 I’m working on [SoundBliss app](https://github.com/EddyShimwa/SoundBliss/)
 
 - 🌱 I’m currently learning **Three.js**
 
