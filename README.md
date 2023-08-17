@@ -6,9 +6,9 @@
 
 - 🔭 I’m working on [SoundBliss app](https://github.com/EddyShimwa/SoundBliss/)
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://github.com/EddyShimwa/My-Portfolio))
+- 👨‍💻 All of my projects are available at my [portfolio](https://eddyshimwa.github.io/My-Portfolio/))
 
 - 💬 Ask me about **html, CSS, bootstrap, JavaScript, React, Redux, Figma, Git&GitHub, ruby on rails, Three.js**
 
