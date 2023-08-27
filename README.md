@@ -6,7 +6,7 @@
 
 - 🔭 I’m working on [SoundBliss App](https://github.com/EddyShimwa/SoundBliss/)
 
-  - 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://eddyshimwa.github.io/My-Portfolio/))
 
