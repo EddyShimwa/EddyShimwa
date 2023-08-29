@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://eddyshimwa.github.io/My-Portfolio/))
+- 👨‍💻 All of my projects are available at my [portfolio](https://eddyshimwa.github.io/My-Portfolio/)
 
 - 💬 Ask me about **HTML5, CSS3, bootstrap, JavaScript, React.js, Redux, Figma, Git&GitHub, ruby on rails, Three.js**
 
