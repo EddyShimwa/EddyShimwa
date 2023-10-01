@@ -2,9 +2,9 @@
 <h3 align="center">A Full-Stack developer from RWANDA</h3>
 <img align="center" src="giffy.gif" alt="Me" title="Me" width="50%" >
 
-- 🔭 I'm currently a student and Mentor at [Microverse](https://www.microverse.org/)
+- 🔭 I'm currently a  Mentor at [Microverse](https://www.microverse.org/)
 
-- 🔭 I’m working on [SoundBliss App](https://github.com/EddyShimwa/SoundBliss/)
+- 🔭 I’m working on [whereToStay](https://github.com/EddyShimwa/where_to_stay_backend)
 
 - 🌱 I’m currently learning **React Native**
 
