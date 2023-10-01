@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently a  Mentor at [Microverse](https://www.microverse.org/)
 
-- 🔭 I’m working on [whereToStay](https://github.com/EddyShimwa/where_to_stay_backend)
+- 🔭 I’m working on [whereToStay App](https://github.com/EddyShimwa/where_to_stay_backend)
 
 - 🌱 I’m currently learning **React Native**
 
