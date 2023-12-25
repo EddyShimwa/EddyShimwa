@@ -1,5 +1,5 @@
 <h1 align="center" fontsize="40px">Hello 👋, I'm Pray Eddy SHIMWA</h1>
-<h3 align="center">A Full-Stack developer from RWANDA</h3>
+<h3 align="center">A FullStack developer from RWANDA</h3>
 <img align="center" src="giffy.gif" alt="Me" title="Me" width="50%" >
 
 - 🔭 I’m working on [whereToStay App](https://github.com/EddyShimwa/where_to_stay_backend)
