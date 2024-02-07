@@ -4,7 +4,7 @@
 
 - 🔭 I’m working on [whereToStay App](https://github.com/EddyShimwa/where_to_stay_backend)
 
-- 🌱 I’m currently learning [Vue.js](https://vuejs.org/)
+- 🌱 I’m currently learning [Python](https://www.python.org/)
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://eddyshimwa.github.io/My-Portfolio/)
 
