@@ -4,11 +4,11 @@
 
 - 🔭 I’m working on [whereToStay App](https://github.com/EddyShimwa/where_to_stay_backend)
 
-- 🌱 I’m currently learning [Python](https://www.python.org/)
+- 🌱 I’m currently learning TypeScript
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://eddyshimwa.github.io/My-Portfolio/)
 
-- 💬 Ask me about **HTML5, CSS3, bootstrap, javaScript, React.js, Redux, TailWind, Figma, Git&GitHub, ruby on rails, Three.js, React Native**
+- 💬 Ask me about **HTML5, CSS3, bootstrap, javaScript, React.js, Redux, TailWind, Figma, Git&GitHub, ruby on rails, Three.js, React Native, Python**
 
 - 📫 How to reach me **shimwaprayeddy@gmail.com**
 
