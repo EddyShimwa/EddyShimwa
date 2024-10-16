@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://eddyshimwa.github.io/My-Portfolio/)
 
-- 💬 Ask me about **HTML5, CSS3, javaScript, React.js, Redux, TailWind, Figma, Git&GitHub, ruby on rails, Three.js, React Native, Python**
+- 💬 Ask me about **javaScript, React.js, Redux, TailWindcss, Figma, Git&GitHub, ruby on rails, Three.js, React Native, Python**
 
 - 📫 How to reach me **shimwaprayeddy@gmail.com**
 
