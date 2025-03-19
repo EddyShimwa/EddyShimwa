@@ -2,11 +2,8 @@
 <h3 align="center">A FullStack developer from RWANDA</h3>
 <img align="center" src="giffy.gif" alt="Me" title="Me" width="50%" >
 
-- 🔭 I’m working on [whereToStay App](https://github.com/EddyShimwa/where_to_stay_backend)
+- 🌱 Learning is an endless journey 
 
-- 🌱 I’m currently learning TypeScript
-
-- 👨‍💻 All of my projects are available at my [portfolio](https://eddyshimwa.github.io/My-Portfolio/)
 
 - 💬 Ask me about **javaScript, React.js, Redux, TailWindcss, Figma, Git&GitHub, ruby on rails, Three.js, React Native, Python**
 
